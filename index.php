@@ -22,6 +22,6 @@ echo "<br>";
 echo "<br>";
 echo "Frase modificato in codice: ";
 echo "<br>";
-echo str_replace("Cacca", "Accipicchia", $var2);
+echo str_replace("Cacca", "***", $var2);
 
 ?>
